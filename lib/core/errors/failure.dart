@@ -1,14 +1,1 @@
-// core/errors/failures.dart
-class Failure {
-  final String message;
-
-  Failure(this.message);
-}
-
-class DatabaseFailure extends Failure {
-  DatabaseFailure(super.message);
-}
-
-class NetworkFailure extends Failure {
-  NetworkFailure(super.message);
-}
+String errorText="هنا هيكون الفالير اللي بيتعامل مع الايرورز اللي ممكن تحصل في الريبو او اليوز كيس او الكنترولر";

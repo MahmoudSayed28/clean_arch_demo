@@ -1,0 +1,1 @@
+String textController="هنا هيكون الاستيت مانحمينت";
